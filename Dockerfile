@@ -4,7 +4,7 @@ RUN set -ex; \
   deps=' \
             click==6.7 \
             PyYAML==3.11 \
-            certifi==2017.1.23 \
+            certifi==2017.4.17 \
             elasticsearch-curator==5.1.2 \
             urllib3==1.15.1 \
             voluptuous==0.8.9 \
